@@ -1,6 +1,7 @@
 Este docuemnto es para verificar el funcionamiento de checkout
 Prueba 1
-Prueba 2
 Prueba 3
 
 //Se agrega la linea 2
+//Se realiza borrado de liena 2
+
